@@ -23,3 +23,6 @@ Social Bingo game for in-person mixers. Find people who match the questions and 
 ## 🚀 Getting Started
 
 Head to **[Part 00: Overview](https://copilot-dev-days.github.io/agent-lab-python/step.html?step=00-overview)** for prerequisites and setup instructions.
+
+---
+This repository was forked during the GitHub Copilot Dev Days, an in-person event held on April 25th, 2026, at Microsoft's Hyderabad office to proceed with the session activities.
